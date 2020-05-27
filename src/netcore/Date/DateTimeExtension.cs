@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NIS.Common.Tools
+namespace NIS.Common.Basic
 {
     /// <summary>
     /// 日期相关扩展类

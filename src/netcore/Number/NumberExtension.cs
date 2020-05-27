@@ -1,7 +1,7 @@
 using System;
 using System.Linq.Expressions;
 
-namespace NIS.Common.Tools
+namespace NIS.Common.Basic
 {
     /// <summary>
     /// 数字相关扩展方法
